@@ -249,7 +249,7 @@ ECA56-Wireless-Communication-Lab/
 
 # 👨‍💻 Author
 
-**Harshit**  
+**Chikatla Pavan Teja**  
 **Electronics and Communication Engineering (ECE)**
 
 **Skills:** MATLAB | Wireless Communication | 5G NR | IoT | MIMO | Artificial Intelligence
